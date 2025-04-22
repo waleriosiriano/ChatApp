@@ -12,8 +12,11 @@ Cada cliente recebe um ID único para identificação.
 O servidor mantém um registro de todos os clientes conectados.
 Comandos pelo console do servidor como: 
 1. /broadcast [mensagem] → Envia uma mensagem para todos os clientes.
+
 2. /msg [clientId] [mensagem] → Envia uma mensagem privada para um cliente específico.
+
 3./quit → Encerra o servidor graciosamente, desconectando todos os clientes.
+
 Exibe no console quando um cliente conecta/desconecta.
 Loga todas as mensagens trocadas.
 Gerenciamento seguro de threads
