@@ -9,8 +9,6 @@
 
 -> A aplicação permite que vários usuários troquem mensagens em um chat público, enquanto o servidor pode enviar mensagens globais ou privadas via console.
 
-![Image](https://github.com/user-attachments/assets/52fd9d41-ae83-49b0-9b5d-b6ff0910a2a7)
-
 💻 Servidor (ChatServer)
 Cada cliente recebe um ID único para identificação.
 O servidor mantém um registro de todos os clientes conectados.
@@ -57,3 +55,5 @@ Fecha a conexão corretamente ao sair.
 /msg client-123abc Olá só para você! → Mensagem privada.
 
 /quit → Encerra o servidor.
+
+![Image](https://github.com/user-attachments/assets/52fd9d41-ae83-49b0-9b5d-b6ff0910a2a7)
