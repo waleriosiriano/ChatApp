@@ -55,5 +55,6 @@ Fecha a conexão corretamente ao sair.
 /msg client-123abc Olá só para você! → Mensagem privada.
 
 /quit → Encerra o servidor.
+___________________________________________________________
 
 ![Image](https://github.com/user-attachments/assets/52fd9d41-ae83-49b0-9b5d-b6ff0910a2a7)
