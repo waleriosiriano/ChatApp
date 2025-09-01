@@ -62,6 +62,6 @@ No console do servidor, utilize os comandos:
 
 ![Image](https://github.com/user-attachments/assets/52fd9d41-ae83-49b0-9b5d-b6ff0910a2a7)
 
-🎯 Objetivo do Projeto
+🎯 Objetivo do Projeto:
 Este projeto foi desenvolvido para praticar conceitos de redes em Java, uso de Sockets TCP, multithreading e JavaFX para construção de interfaces gráficas modernas.
 
